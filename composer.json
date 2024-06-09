@@ -1,7 +1,0 @@
-{
-  "require": {
-    "ext-mysqli": "*",
-    "ext-http": "*",
-    "ext-imagick": "*"
-  }
-}
